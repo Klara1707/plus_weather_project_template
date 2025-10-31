@@ -1,6 +1,6 @@
 function AboutPage() {
     
-return <h1>This is the about page.</h1>;
+return <h1>This is a test</h1>;
 }
 
 export default AboutPage;
